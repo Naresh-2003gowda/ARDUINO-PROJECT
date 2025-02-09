@@ -16,4 +16,14 @@ Our Smart Waste Management System integrates automated segregation and real-time
 
 5. **AI-Driven Waste Prediction** – Applies machine learning to predict waste accumulation trends and optimize collection schedules.  
 
+# Dataset for Smart Waste Management
+
+1. **Waste Classification Dataset** – Images of waste (plastic, paper, metal, glass, organic) for AI-based identification.
+
+**Sensor-Based Dataset** – Sensor readings (IR, ultrasonic, load) mapped to waste types for automated segregation.
+
+**IoT Bin Monitoring Dataset** – Bin fill levels, timestamps, and location data for real-time tracking.
+
+**Waste Prediction Dataset** – Historical waste levels and environmental factors for ML-based forecasting.
+
 ![super-necessary.l(/images/SunburstStanford.png | width=70)
