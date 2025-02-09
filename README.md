@@ -6,4 +6,14 @@ Our Smart Waste Management System integrates automated segregation and real-time
 
 # Algorithms Explored
 
-![super-necessary.l(/images/SunburstStanford.png | width=100)
+1. **Waste Classification Algorithm** – Uses IR sensors to classify biodegradable and non-biodegradable waste.  
+
+2. **IoT-Based Monitoring Algorithm** – Tracks bin fill levels using load sensors and sends real-time alerts via cloud integration.  
+
+3. **Motor Control Algorithm** – Operates servo motors for automated waste sorting based on sensor data.  
+
+4. **Data Transmission Algorithm** – Uses MQTT/HTTP for real-time data transfer to a cloud dashboard.  
+
+5. **AI-Driven Waste Prediction** – Applies machine learning to predict waste accumulation trends and optimize collection schedules.  
+
+![super-necessary.l(/images/SunburstStanford.png | width=70)
