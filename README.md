@@ -26,3 +26,10 @@ Our Smart Waste Management System integrates automated segregation and real-time
 
 4. **Waste Prediction Dataset** – Historical waste levels and environmental factors for ML-based forecasting.
 
+# Hardware Used
+
+1. **Arduino Uno** – Microcontroller for processing sensor data.
+2. **IR Sensors** – Detects different waste types.
+3. **Servo Motors** – Controls waste segregation mechanism.
+4. **Load Sensors** – Monitors bin fill levels.
+
